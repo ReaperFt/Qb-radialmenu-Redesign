@@ -1,4 +1,4 @@
-![Screenshot 2025-05-26 192629](https://github.com/user-attachments/assets/86d9ece1-2616-4a26-9bbd-195ce94cf37d)**qb-radialmenu-redesign**
+**qb-radialmenu-redesign**
 
 
 small changes for paradise radial menu
